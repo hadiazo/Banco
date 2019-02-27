@@ -1,0 +1,7 @@
+|NOMBRE			|DOCUMENTO	|DINERO EN LA CUENTA
+|-----------------------|---------------|-------------------
+|Pablo Hernández	|582052054	|$200000000
+|Ana María Pérez	|7938594	|$16700000
+|Andrea Uribe		|40280402	|$3400000
+|Jairo Ortega		|10330045	|$800000
+|Carlos Bustos		|56080203	|$150000
